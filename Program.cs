@@ -2,6 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 // проверка version 1 
+// проверка version 2
 class Program
 {
     static async Task Main(string[] args)
