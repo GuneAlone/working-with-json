@@ -2,6 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 class Program
+    //проверка 1
 {
     static async Task Main(string[] args)
     {
